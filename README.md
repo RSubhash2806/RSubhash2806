@@ -1,6 +1,4 @@
--  Hi, I’m @RSubhash2806
--  I’m interested in coding 
--  I’m currently learning data     science in python 
+-  Hi, I’m Subhash
 - How to reach me  @subhashreddyr28@gmail.com
 -  Pronouns: He/Him
 
